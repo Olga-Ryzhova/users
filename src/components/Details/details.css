@@ -1,0 +1,13 @@
+.user-avatar {
+  border: 1px solid #ececec;
+}
+
+.user-name {
+  font-size: 25px;
+}
+.user-name, .user-city, .user-company, .user-position {
+  border: 1px solid #ececec;
+  width: 270px;
+  height: 30px;
+  padding: 15px;
+}
